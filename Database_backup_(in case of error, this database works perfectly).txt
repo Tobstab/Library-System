@@ -1,0 +1,12 @@
+85, Harry Potter & The Chamber of secrets, 'Jk Rowling', 'In Stock', '22/11/19', 0
+83, Harry Potter & The Goblet of fire, 'Jk Rowling', 'In Stock', '22/11/19', 0
+51, Lord of the rings, 'J.R.R Tolkien', 'In Stock', '23/04/01', 0
+35, Heart Shaped Box, 'Joe Hill', 'In Stock', '22/05/05', 0
+13, Great Expectations, 'Charles Dickens', 'In Stock', '22/03/2001', 0
+93, Inspector Calls, 'JB Priestly', 'Out on Loan', '22/04/2006', 1312
+38, Eragon, 'Christopher Paolini', 'In Stock', '17/08/2004', 0
+40, Eragon, 'Christopher Paolini', 'Out on Loan', '17/08/2004', 1254
+30, Eragon, 'Christopher Paolini', 'Out on Loan', '17/08/2004', 3254
+37, Percy Jackson & The lightning Thief, 'Rick Riordan', 'In Stock', '17/05/2012', 0
+36, Percy Jackson & The lightning Thief, 'Rick Riordan', 'In Stock', '17/06/2012', 0
+72, Star Wars: Episode I – The Phantom Menace, 'George Lucas', 'Out on Loan', '09/12/2019', 1234
